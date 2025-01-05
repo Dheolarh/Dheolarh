@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+![Readme Quotes](https://memes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dheolarh&icon=0&color=0)](https://visitcount.itsvg.in)
