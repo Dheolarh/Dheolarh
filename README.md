@@ -26,7 +26,7 @@
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,unity,python,cs,cpp,css,git,github,js,discord,dev,figma,pr,visualstudio,aws,postgres" />
+    <img src="https://skillicons.dev/icons?i=django,unity,python,cs,cpp,css,git,github,js,discord,figma,pr,visualstudio,aws,postgres" />
   </a>
 </p>
 
