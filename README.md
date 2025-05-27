@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Adejuwonlo Adeola <br/> ( OSX ) <br/> </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Unity+Game+Developer;3D+Artist;Open%20Sorcerer&center=true&width=640&height=55"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Unity+Game+Developer;Frontend Developer;3D+Artist;Open%20Sorcerer&center=true&width=640&height=55"></a>
 </p> 
 
 -🔭 I’m currently working on creating games using unity engine 🎉 I’m looking to collaborate on a game project with big potential 👐 I’m looking for help with building games 🌱 I’m currently advancing my knowlegde on game development in Unity 💬 Ask me about game dev, unity, anime and manga...
