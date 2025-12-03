@@ -13,7 +13,6 @@
 - 💬 How to reach me :
     ##### 📧 [adejuwonlookanlawon@gmail.com](mailto:adejuwonlookanlawon@gmail.com)  
     <!-- ##### 🌏 [https://syntaxken.netlify.app](https://syntaxken.netlify.app) -->
-    ##### 📞 [+2348105291354](tel:+2348105291354)
 
 - Some of my projects  Loading.... ( Almost Done)
     <!-- ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
