@@ -12,9 +12,8 @@
 
 ### 👋 About Me
 - 🎮 Unity Game Developer | 🎨 3D Artist | 🌐 Frontend Developer | 🧰 Automation System Developer
-- 🔭 Currently focusing on Unity engine game development.
 - 🤝 Open to collaborating on promising game projects or innovative tech ventures.
-- 🌱 Eager to learn and grow in the field of game development and automation.
+- 🌱 Eager to learn and grow in the field of game development and AI systems.
 - ❤️ Active contributor to Open Source projects.
 - 👯 Seeking to collaborate more on impactful projects.
 - 📚 In my spare time, I enjoy manga, tech articles, and learning new frameworks.
