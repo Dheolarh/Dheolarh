@@ -1,39 +1,77 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Adejuwonlo Adeola <br/> ( OSX ) <br/> </h2>
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Adejuwonlo Adeola (OSX)
+</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Unity+Game+Developer;Frontend+Developer;3D+Artist;Automation+System+Developer&center=true&width=640&height=55"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Unity+Game+Developer;Frontend+Developer;3D+Artist;Automation+System+Developer&center=true&width=500&height=50">
+  </a>
 </p> 
 
--🔭 I’m currently working on creating games using unity engine 🎉 I’m looking to collaborate on a game project with big potential 👐 I’m looking for help with building games 🌱 I’m currently advancing my knowlegde on game development in Unity 💬 Ask me about game dev, unity, anime and manga...
-- ⚡ Fun fact: I think..... I think a lot 🤔
-- ❤️ As much as I can, I enjoy contributing to **Open Source**
-- 👯 I’m looking to collaborate more on **projects**
-- _busy reading manga 📖_
+---
+
+### 👋 About Me
+- 🎮 Unity Game Developer | 🎨 3D Artist | 🌐 Frontend Developer | 🧰 Automation System Developer
+- 🔭 Currently focusing on Unity engine game development.
+- 🤝 Open to collaborating on promising game projects or innovative tech ventures.
+- 🌱 Eager to learn and grow in the field of game development and automation.
+- ❤️ Active contributor to Open Source projects.
+- 👯 Seeking to collaborate more on impactful projects.
+- 📚 In my spare time, I enjoy manga, tech articles, and learning new frameworks.
+
+---
+
+### 📫 Contact
+- Email: [adejuwonlookanlawon@gmail.com](mailto:adejuwonlookanlawon@gmail.com)
+<!-- - Portfolio: [syntaxken.netlify.app](https://syntaxken.netlify.app) -->
+
+---
+
+---
+
+### 💼 Notable Projects
+
+- **[Penguin-Dash](https://github.com/Dheolarh/Penguin-Dash)**  
+  *3D Runner Game built with Unity and custom shaders*  
+  <sub>ShaderLab (55.7%), C# (34.6%), HLSL (9.7%)</sub>
+
+- **[Word-Duel](https://github.com/Dheolarh/Word-Duel)**  
+  *A multiplayer word guessing game built on Devvit.*  
+  <sub>TypeScript (87.1%), CSS (12.2%), Other (0.7%)</sub>
+
+- **[DataAI](https://github.com/Dheolarh/DataAI)**  
+  *Advanced analytics and data solutions platform*  
+  <sub>TypeScript (98.1%), Other (1.9%)</sub>
   
-- 💬 How to reach me :
-    ##### 📧 [adejuwonlookanlawon@gmail.com](mailto:adejuwonlookanlawon@gmail.com)  
-    <!-- ##### 🌏 [https://syntaxken.netlify.app](https://syntaxken.netlify.app) -->
+- **[Kinesave](https://github.com/Dheolarh/Kinesave)**  
+  *Savings and finance management tool*  
+  <sub>TypeScript (86.7%), CSS (13.2%), HTML (0.1%)</sub>
+  
+- **[SkoolMe](https://github.com/Dheolarh/SkoolMe)**  
+  *School Management Dashboard and Utility Suite*  
+  <sub>JavaScript (60.3%), Python (23.5%), CSS (15.9%), Other (0.3%)</sub>
 
-- Some of my projects  Loading.... ( Almost Done)
-    <!-- ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
-    ##### 🌏 [languvi.com](https://languvi.com) -->
-    <!-- ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com) 
-    ##### 🌏 [Digiurl url shortener](https://digiurl.vercel.app/)
-    ##### 🌏 [Cinerama-insight.app/](https://cinerama-insight.netlify.app/)
-    ##### 🌏 [futaforum.app](https://futaforum.vercel.app) -->
+- **[Sales-Dashboard](https://github.com/Dheolarh/Sales-Dashboard)**  
+  *Comprehensive dashboard for sales analytics and reporting*  
+  <sub>TypeScript (99.2%), Other (0.8%)</sub>
 
-## Languages and Tools
+---
+
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,unity,python,cs,cpp,css,git,github,js,discord,figma,pr,visualstudio,aws,postgres" />
   </a>
 </p>
 
-
-<!-- # 📊 GitHub Stats:
+<!--
+### 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preciousken&theme=dark&hide_border=true)<br/>
+[![](https://visitcount.itsvg.in/api?id=preciousken&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
----
-[![](https://visitcount.itsvg.in/api?id=preciousken&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
