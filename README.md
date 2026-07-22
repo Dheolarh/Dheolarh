@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Adejuwonlo Adeola (OSX)
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Adejuwonlo Adeola
 </h2>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 👋 About Me
-- 🎮 Unity Game Developer | 🎨 3D Artist | 🌐 Frontend Developer | 🧰 Automation System Developer
+- 🎮 Unity Game/Application Developer | 🎨 3D Artist | 🌐 Web Developer
 - 🤝 Open to collaborating on promising game projects or innovative tech ventures.
 - 🌱 Eager to learn and grow in the field of game development and AI systems.
 - ❤️ Active contributor to Open Source projects.
@@ -67,10 +67,9 @@
   </a>
 </p>
 
-<!--
+
 ### 📈 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=preciousken&theme=dark&hide_border=true)<br/>
 [![](https://visitcount.itsvg.in/api?id=preciousken&icon=0&color=0)](https://visitcount.itsvg.in)
--->
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
